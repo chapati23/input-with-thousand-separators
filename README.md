@@ -2,10 +2,6 @@
 
 A React component that automatically formats numbers with thousand separators based on the user's locale. When you type "100", it stays as "100", but when you type "1000", it automatically formats to "1,000" (or the appropriate format for your locale).
 
-## Demo
-
-![Numeric Input Demo](https://via.placeholder.com/800x400/f0f0f0/333333?text=Numeric+Input+Demo)
-
 ## Features
 
 - ✨ **Automatic Formatting**: Numbers are formatted with thousand separators as you type
@@ -22,7 +18,7 @@ A React component that automatically formats numbers with thousand separators ba
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/chapati23/input-with-thousand-separators
 cd input-with-thousand-separators
 ```
 
